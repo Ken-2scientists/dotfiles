@@ -1,0 +1,24 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    tabType: "soft"
+  "exception-reporting":
+    userId: "98ad333f-0e19-ef0d-69f1-1bfec1114dec"
+  "proto-repl":
+    autoPrettyPrint: true
+  swackets:
+    colorParens: true
+    colorSquareBrackets: true
+    colors: [
+      "orchid"
+      "cornflowerblue"
+      "palegreen"
+      "gold"
+      "darksalmon"
+      "tomato"
+    ]
+  "tool-bar":
+    position: "Right"
+  welcome:
+    showOnStartup: false
